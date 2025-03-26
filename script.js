@@ -173,7 +173,7 @@ function generatePassword(length, options) {
   
     languageBtn.addEventListener("click", () => {
       // Implement language switching logic here
-      alert("Language switching not implemented in this demo.")
+      alert("Language switching not implemented in this version.")
     })
   
     function copyToClipboard(text, element) {
